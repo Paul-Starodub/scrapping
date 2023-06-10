@@ -1,0 +1,13 @@
+title,description,price,rating,num_of_reviews,additional_info
+Packard 255 G2,"15.6"", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",416.99,2,2,"{'hdd_prices': {'128': 416.99, '256': 436.99, '512': 456.99}}"
+Aspire E1-510,"15.6"", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",306.99,3,2,"{'hdd_prices': {'128': 306.99, '256': 326.99, '512': 346.99}}"
+ThinkPad T540p,"15.6"", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",1178.99,1,2,"{'hdd_prices': {'128': 1178.99, '256': 1198.99, '512': 1218.99}}"
+ProBook,"14"", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",739.99,4,8,"{'hdd_prices': {'128': 739.99, '256': 759.99, '512': 779.99}}"
+ThinkPad X240,"12.5"", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",1311.99,3,12,"{'hdd_prices': {'128': 1311.99, '256': 1331.99, '512': 1351.99}}"
+Aspire E1-572G,"15.6"", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",581.99,1,2,"{'hdd_prices': {'128': 581.99, '256': 601.99, '512': 621.99}}"
+ThinkPad Yoga,"12.5"" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",1033.99,2,13,"{'hdd_prices': {'128': 1033.99, '256': 1053.99, '512': 1073.99}}"
+Pavilion,"15.6"", Core i5-4200U, 6GB, 750GB, Windows 8.1",609.99,1,4,"{'hdd_prices': {'128': 609.99, '256': 629.99, '512': 649.99}}"
+Inspiron 15,"Moon Silver, 15.6"", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",745.99,3,12,"{'hdd_prices': {'128': 745.99, '256': 765.99, '512': 785.99}}"
+Dell XPS 13,"13.3"" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",1281.99,3,4,"{'hdd_prices': {'128': 1281.99, '256': 1301.99, '512': 1321.99}}"
+ThinkPad X230,"12.5"", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",1244.99,3,10,"{'hdd_prices': {'128': 1244.99, '256': 1264.99, '512': 1284.99}}"
+HP 250 G3,"15.6"", Core i5-4210U, 4GB, 500GB, Windows 8.1",520.99,2,13,"{'hdd_prices': {'128': 520.99, '256': 540.99, '512': 560.99}}"
